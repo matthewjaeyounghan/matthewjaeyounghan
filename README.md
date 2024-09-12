@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development, web design, and learning more about software.
 - 🌱 I’m currently learning C and the basics of programming.
 - 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: LinkedIn: Matthew Han
+- 📫 How to reach me: LinkedIn: www.linkedin.com/in/matthewjaeyounghan
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I picked up an interest in computer science in my senior year of high school!
 
