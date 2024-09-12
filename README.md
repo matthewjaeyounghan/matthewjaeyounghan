@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthewjaeyounghan
 - 👀 I’m interested in app development, web design, and learning more about software.
-- 🌱 I’m currently learning C and the basics of programming.
+- 🌱 I’m currently learning C, Java, and Python.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: LinkedIn: www.linkedin.com/in/matthewjaeyounghan
 - 😄 Pronouns: he/him
