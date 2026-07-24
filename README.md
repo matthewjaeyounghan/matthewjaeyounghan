@@ -2,6 +2,7 @@ Hello World!
 - Computer Science + Data Science @ Rutgers Honors College
 - Currently Data Technology Co-op @ Johnson & Johnson
 - NYC/NJ area
+- Aspiring software engineer
 - Currently working on:
   - [RU-Here](https://github.com/RU-Here) since May 2025
   - [Teyeme](https://github.com/matthewjyhan/teyeme) since January 2025
@@ -15,6 +16,7 @@ Hello World!
   - Music
 - Contact me:
   - [matthewjyhan.github.io](https://matthewjyhan.github.io)
+  - hanjymatthew@gmail.com
   - [LinkedIn](https://linkedin.com/in/matthewjyhan)
   - [Instagram](https://instagram.com/@matthewjyhan)
 
